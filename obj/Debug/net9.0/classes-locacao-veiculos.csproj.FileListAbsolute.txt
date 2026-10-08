@@ -1,0 +1,14 @@
+C:\Users\45843321851\Desktop\workspace\classes-locacao-veiculos\obj\Debug\net9.0\classes-locacao-veiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\45843321851\Desktop\workspace\classes-locacao-veiculos\obj\Debug\net9.0\classes-locacao-veiculos.AssemblyInfoInputs.cache
+C:\Users\45843321851\Desktop\workspace\classes-locacao-veiculos\obj\Debug\net9.0\classes-locacao-veiculos.AssemblyInfo.cs
+C:\Users\45843321851\Desktop\workspace\classes-locacao-veiculos\obj\Debug\net9.0\classes-locacao-veiculos.csproj.CoreCompileInputs.cache
+C:\Users\45843321851\Desktop\workspace\classes-locacao-veiculos\bin\Debug\net9.0\classes-locacao-veiculos.exe
+C:\Users\45843321851\Desktop\workspace\classes-locacao-veiculos\bin\Debug\net9.0\classes-locacao-veiculos.deps.json
+C:\Users\45843321851\Desktop\workspace\classes-locacao-veiculos\bin\Debug\net9.0\classes-locacao-veiculos.runtimeconfig.json
+C:\Users\45843321851\Desktop\workspace\classes-locacao-veiculos\bin\Debug\net9.0\classes-locacao-veiculos.dll
+C:\Users\45843321851\Desktop\workspace\classes-locacao-veiculos\bin\Debug\net9.0\classes-locacao-veiculos.pdb
+C:\Users\45843321851\Desktop\workspace\classes-locacao-veiculos\obj\Debug\net9.0\classes-locacao-veiculos.dll
+C:\Users\45843321851\Desktop\workspace\classes-locacao-veiculos\obj\Debug\net9.0\refint\classes-locacao-veiculos.dll
+C:\Users\45843321851\Desktop\workspace\classes-locacao-veiculos\obj\Debug\net9.0\classes-locacao-veiculos.pdb
+C:\Users\45843321851\Desktop\workspace\classes-locacao-veiculos\obj\Debug\net9.0\classes-locacao-veiculos.genruntimeconfig.cache
+C:\Users\45843321851\Desktop\workspace\classes-locacao-veiculos\obj\Debug\net9.0\ref\classes-locacao-veiculos.dll
